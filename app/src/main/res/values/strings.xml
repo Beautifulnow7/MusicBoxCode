@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicBoxZhu</string>
+    <string name="endTime">endtime</string>
+    <string name="beginTime">begintime</string>
+</resources>
